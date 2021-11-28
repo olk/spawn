@@ -17,8 +17,8 @@
 #include <boost/optional.hpp>
 #include <boost/system/system_error.hpp>
 
-#include <boost/spawn/detail/net.hpp>
-#include <boost/spawn/detail/is_stack_allocator.hpp>
+#include <boost/spawn/cpp11/detail/net.hpp>
+#include <boost/spawn/cpp11/detail/is_stack_allocator.hpp>
 
 namespace boost {
 namespace spawn {
